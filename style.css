@@ -8,6 +8,22 @@
   background-color: rgb(192, 153, 98);
 }
 
+.teste {
+  font-family: "Sacramento", cursive;
+  font-size: 40px;
+  color: rgb(108, 77, 38);
+}
+
+.lineDivider {
+  border: 10px solid black;
+}
+
+.testeTwo {
+  font-family: "Sacramento", cursive;
+  font-size: 60px;
+  color: rgb(108, 77, 38);
+}
+
 .linksNav {
   font-family: "Sacramento", cursive;
   font-size: 30px;
