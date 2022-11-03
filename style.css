@@ -14,10 +14,6 @@
   color: rgb(108, 77, 38);
 }
 
-.lineDivider {
-  border: 10px solid black;
-}
-
 .testeTwo {
   font-family: "Sacramento", cursive;
   font-size: 60px;
@@ -48,6 +44,16 @@
   font-weight: 600;
   color: rgb(218, 19, 19);
   text-shadow: 50px;
+}
+
+.price {
+  font-weight: 700;
+}
+
+.linkPrice,
+.socialLinks {
+  text-decoration: none;
+  color: black;
 }
 /* .teste {
   height: 800px;
