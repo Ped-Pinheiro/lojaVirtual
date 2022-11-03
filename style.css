@@ -1,0 +1,38 @@
+.doceMaria {
+  font-family: "Sacramento", cursive;
+  font-size: 40px;
+  color: rgb(108, 77, 38);
+}
+
+.barra {
+  background-color: rgb(192, 153, 98);
+}
+
+.linksNav {
+  font-family: "Sacramento", cursive;
+  font-size: 30px;
+}
+
+.titleCarouselBolo {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(248, 243, 236);
+  text-shadow: 50px;
+}
+
+.titleCarouselTorta {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(229, 74, 74);
+  text-shadow: 50px;
+}
+
+.titleCarouselSobremesa {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(218, 19, 19);
+  text-shadow: 50px;
+}
+/* .teste {
+  height: 800px;
+} */
